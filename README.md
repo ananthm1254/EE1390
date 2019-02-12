@@ -1,2 +1,2 @@
 # EE1390
-Matrix analysis project
+Intro to AI and ML project
